@@ -1,7 +1,7 @@
 # Bugs Bunny
 ---
 
-!https://raw.githubusercontent.com/evocativebloom8/hello-world/master/BugsBunny.png
+!([Bugs]https://raw.githubusercontent.com/evocativebloom8/hello-world/master/BugsBunny.png "Bugs Bunny")
 
 Bugs Bunny is a very well known and lovable character from *Looney Tunes*. Here are some awesome thigs about him:
 * Loves carrots
