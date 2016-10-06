@@ -1,0 +1,2 @@
+git remote add origin https://github.com/INFO-201/a1-git-started-evocativebloom8.git
+git push -u origin master
