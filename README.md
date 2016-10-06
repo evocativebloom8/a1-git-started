@@ -13,4 +13,4 @@ If you'd like to learn more about this character, you can find it [here](http://
 1. Did not recieve help from other classmates
 2. It took me 3 hours to complete
 3. 7
-4. 
+4. Cloning the repo was difficult
